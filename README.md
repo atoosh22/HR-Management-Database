@@ -1,3 +1,4 @@
+![HR Management Database](HR%20Management%20Database.png)
 # HR Management Database
 
 A relational Human Resource Management Database built using Microsoft SQL Server and SQL Server Management Studio (SSMS).
@@ -30,7 +31,7 @@ This project organizes employee information and connects related HR data through
 
 ## Project Screenshot
 
-![HR Management Database](HR%20Management%20Database.png)
+
 
 ## Author
 
