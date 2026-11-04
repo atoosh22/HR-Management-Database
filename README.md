@@ -30,7 +30,7 @@ This project organizes employee information and connects related HR data through
 
 ## Project Screenshot
 
-![HR Management Database](Screenshots/HR_Management_Database.png)
+![HR Management Database](Screenshots/HR Management Database.png)
 
 ## Author
 
